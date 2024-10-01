@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\worldApp.Web.props" />
+</Project>
